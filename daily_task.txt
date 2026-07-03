@@ -1,4 +1,7 @@
 Welcome to Devops
 Learning Git Day 3
 Added directly from github website on day 06
+HEAD
 This is local code
+this is cloud code
+>>>>>>> a985e562779740436c7d3cba34dcb2aed1399d2d
